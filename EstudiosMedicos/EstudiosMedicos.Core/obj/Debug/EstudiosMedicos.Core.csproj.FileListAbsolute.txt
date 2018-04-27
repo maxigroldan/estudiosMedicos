@@ -1,0 +1,14 @@
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\EstudiosMedicos.Core\bin\Debug\EstudiosMedicos.Core.dll
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\EstudiosMedicos.Core\bin\Debug\EstudiosMedicos.Core.pdb
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\EstudiosMedicos.Core\bin\Debug\Infraestructure.Core.dll
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\EstudiosMedicos.Core\bin\Debug\Infraestructure.Core.pdb
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\EstudiosMedicos.Core\obj\Debug\EstudiosMedicos.Core.csprojResolveAssemblyReference.cache
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\EstudiosMedicos.Core\obj\Debug\EstudiosMedicos.Core.dll
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\EstudiosMedicos.Core\obj\Debug\EstudiosMedicos.Core.pdb
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\EstudiosMedicos.Core\bin\Debug\EstudiosMedicos.Core.dll
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\EstudiosMedicos.Core\bin\Debug\EstudiosMedicos.Core.pdb
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\EstudiosMedicos.Core\bin\Debug\Infraestructure.Core.dll
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\EstudiosMedicos.Core\bin\Debug\Infraestructure.Core.pdb
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\EstudiosMedicos.Core\obj\Debug\EstudiosMedicos.Core.csprojResolveAssemblyReference.cache
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\EstudiosMedicos.Core\obj\Debug\EstudiosMedicos.Core.dll
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\EstudiosMedicos.Core\obj\Debug\EstudiosMedicos.Core.pdb

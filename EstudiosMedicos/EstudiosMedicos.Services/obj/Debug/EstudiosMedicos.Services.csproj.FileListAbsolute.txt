@@ -1,0 +1,46 @@
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\EstudiosMedicos.Services\bin\Debug\EstudiosMedicos.Services.dll
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\EstudiosMedicos.Services\bin\Debug\EstudiosMedicos.Services.pdb
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\EstudiosMedicos.Services\bin\Debug\EstudiosMedicos.Core.dll
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\EstudiosMedicos.Services\bin\Debug\EstudiosMedicos.Data.dll
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\EstudiosMedicos.Services\bin\Debug\Infraestructure.Data.dll
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\EstudiosMedicos.Services\bin\Debug\Infraestructure.Core.dll
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\EstudiosMedicos.Services\bin\Debug\EstudiosMedicos.Common.dll
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\EstudiosMedicos.Services\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\EstudiosMedicos.Services\bin\Debug\Infraestructure.Common.dll
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\EstudiosMedicos.Services\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\EstudiosMedicos.Services\bin\Debug\EstudiosMedicos.Core.pdb
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\EstudiosMedicos.Services\bin\Debug\EstudiosMedicos.Data.pdb
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\EstudiosMedicos.Services\bin\Debug\Infraestructure.Data.pdb
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\EstudiosMedicos.Services\bin\Debug\Infraestructure.Core.pdb
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\EstudiosMedicos.Services\bin\Debug\EstudiosMedicos.Common.pdb
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\EstudiosMedicos.Services\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\EstudiosMedicos.Services\bin\Debug\Infraestructure.Common.pdb
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\EstudiosMedicos.Services\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\EstudiosMedicos.Services\obj\Debug\EstudiosMedicos.Services.csprojResolveAssemblyReference.cache
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\EstudiosMedicos.Services\obj\Debug\EstudiosMedicos.Services.dll
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\EstudiosMedicos.Services\obj\Debug\EstudiosMedicos.Services.pdb
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\EstudiosMedicos.Services\bin\Debug\Infraestructure.Services.dll
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\EstudiosMedicos.Services\bin\Debug\Infraestructure.Services.pdb
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\EstudiosMedicos.Services\bin\Debug\EstudiosMedicos.Services.dll
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\EstudiosMedicos.Services\bin\Debug\EstudiosMedicos.Services.pdb
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\EstudiosMedicos.Services\bin\Debug\EstudiosMedicos.Core.dll
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\EstudiosMedicos.Services\bin\Debug\EstudiosMedicos.Data.dll
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\EstudiosMedicos.Services\bin\Debug\Infraestructure.Core.dll
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\EstudiosMedicos.Services\bin\Debug\Infraestructure.Data.dll
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\EstudiosMedicos.Services\bin\Debug\Infraestructure.Services.dll
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\EstudiosMedicos.Services\bin\Debug\EstudiosMedicos.Common.dll
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\EstudiosMedicos.Services\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\EstudiosMedicos.Services\bin\Debug\Infraestructure.Common.dll
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\EstudiosMedicos.Services\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\EstudiosMedicos.Services\bin\Debug\EstudiosMedicos.Core.pdb
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\EstudiosMedicos.Services\bin\Debug\EstudiosMedicos.Data.pdb
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\EstudiosMedicos.Services\bin\Debug\Infraestructure.Core.pdb
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\EstudiosMedicos.Services\bin\Debug\Infraestructure.Data.pdb
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\EstudiosMedicos.Services\bin\Debug\Infraestructure.Services.pdb
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\EstudiosMedicos.Services\bin\Debug\EstudiosMedicos.Common.pdb
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\EstudiosMedicos.Services\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\EstudiosMedicos.Services\bin\Debug\Infraestructure.Common.pdb
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\EstudiosMedicos.Services\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\EstudiosMedicos.Services\obj\Debug\EstudiosMedicos.Services.csprojResolveAssemblyReference.cache
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\EstudiosMedicos.Services\obj\Debug\EstudiosMedicos.Services.dll
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\EstudiosMedicos.Services\obj\Debug\EstudiosMedicos.Services.pdb

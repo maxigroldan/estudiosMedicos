@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{FDCC0C2A-BA39-48DC-AF40-73C3C65445D9}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>EstudiosMedicos.Services</RootNamespace>
+    <AssemblyName>EstudiosMedicos.Services</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BaseEntityService.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\EstudiosMedicos.Core\EstudiosMedicos.Core.csproj">
+      <Project>{c3980091-924b-43e8-8dd3-7c5aaa7f8c33}</Project>
+      <Name>EstudiosMedicos.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EstudiosMedicos.Data\EstudiosMedicos.Data.csproj">
+      <Project>{d970d183-e952-4570-bfe5-a593da1939d2}</Project>
+      <Name>EstudiosMedicos.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Infraestructure.Core\Infraestructure.Core.csproj">
+      <Project>{24689AE1-E350-4818-8C26-008844379B5F}</Project>
+      <Name>Infraestructure.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Infraestructure.Data\Infraestructure.Data.csproj">
+      <Project>{17300D9C-2353-4304-AE05-20B60F1445F3}</Project>
+      <Name>Infraestructure.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Infraestructure.Services\Infraestructure.Services.csproj">
+      <Project>{44bbb410-7bfc-4b2b-bea3-58f989f9c27b}</Project>
+      <Name>Infraestructure.Services</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Implementations\" />
+    <Folder Include="Interfaces\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

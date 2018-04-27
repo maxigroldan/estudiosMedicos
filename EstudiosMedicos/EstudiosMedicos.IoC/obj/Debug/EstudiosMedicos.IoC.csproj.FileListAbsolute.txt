@@ -1,0 +1,42 @@
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\EstudiosMedicos.IoC\bin\Debug\EstudiosMedicos.IoC.dll
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\EstudiosMedicos.IoC\bin\Debug\EstudiosMedicos.IoC.pdb
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\EstudiosMedicos.IoC\bin\Debug\CommonServiceLocator.dll
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\EstudiosMedicos.IoC\bin\Debug\Unity.Abstractions.dll
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\EstudiosMedicos.IoC\bin\Debug\Unity.Configuration.dll
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\EstudiosMedicos.IoC\bin\Debug\Unity.Container.dll
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\EstudiosMedicos.IoC\bin\Debug\Unity.Interception.Configuration.dll
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\EstudiosMedicos.IoC\bin\Debug\Unity.Interception.dll
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\EstudiosMedicos.IoC\bin\Debug\Unity.RegistrationByConvention.dll
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\EstudiosMedicos.IoC\bin\Debug\Unity.ServiceLocation.dll
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\EstudiosMedicos.IoC\bin\Debug\CommonServiceLocator.pdb
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\EstudiosMedicos.IoC\bin\Debug\Unity.Abstractions.pdb
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\EstudiosMedicos.IoC\bin\Debug\Unity.Configuration.pdb
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\EstudiosMedicos.IoC\bin\Debug\Unity.Container.pdb
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\EstudiosMedicos.IoC\bin\Debug\Unity.Interception.pdb
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\EstudiosMedicos.IoC\bin\Debug\Unity.Interception.Configuration.pdb
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\EstudiosMedicos.IoC\bin\Debug\Unity.RegistrationByConvention.pdb
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\EstudiosMedicos.IoC\bin\Debug\Unity.ServiceLocation.pdb
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\EstudiosMedicos.IoC\obj\Debug\EstudiosMedicos.IoC.csprojResolveAssemblyReference.cache
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\EstudiosMedicos.IoC\obj\Debug\EstudiosMedicos.IoC.dll
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\EstudiosMedicos.IoC\obj\Debug\EstudiosMedicos.IoC.pdb
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\EstudiosMedicos.IoC\bin\Debug\EstudiosMedicos.IoC.dll
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\EstudiosMedicos.IoC\bin\Debug\EstudiosMedicos.IoC.pdb
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\EstudiosMedicos.IoC\bin\Debug\CommonServiceLocator.dll
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\EstudiosMedicos.IoC\bin\Debug\Unity.Abstractions.dll
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\EstudiosMedicos.IoC\bin\Debug\Unity.Configuration.dll
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\EstudiosMedicos.IoC\bin\Debug\Unity.Container.dll
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\EstudiosMedicos.IoC\bin\Debug\Unity.Interception.Configuration.dll
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\EstudiosMedicos.IoC\bin\Debug\Unity.Interception.dll
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\EstudiosMedicos.IoC\bin\Debug\Unity.RegistrationByConvention.dll
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\EstudiosMedicos.IoC\bin\Debug\Unity.ServiceLocation.dll
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\EstudiosMedicos.IoC\bin\Debug\CommonServiceLocator.pdb
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\EstudiosMedicos.IoC\bin\Debug\Unity.Abstractions.pdb
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\EstudiosMedicos.IoC\bin\Debug\Unity.Configuration.pdb
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\EstudiosMedicos.IoC\bin\Debug\Unity.Container.pdb
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\EstudiosMedicos.IoC\bin\Debug\Unity.Interception.pdb
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\EstudiosMedicos.IoC\bin\Debug\Unity.Interception.Configuration.pdb
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\EstudiosMedicos.IoC\bin\Debug\Unity.RegistrationByConvention.pdb
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\EstudiosMedicos.IoC\bin\Debug\Unity.ServiceLocation.pdb
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\EstudiosMedicos.IoC\obj\Debug\EstudiosMedicos.IoC.csprojResolveAssemblyReference.cache
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\EstudiosMedicos.IoC\obj\Debug\EstudiosMedicos.IoC.dll
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\EstudiosMedicos.IoC\obj\Debug\EstudiosMedicos.IoC.pdb

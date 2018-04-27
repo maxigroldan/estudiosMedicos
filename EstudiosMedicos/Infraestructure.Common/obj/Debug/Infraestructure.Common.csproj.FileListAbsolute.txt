@@ -1,0 +1,9 @@
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\Infraestructure.Common\bin\Debug\Infraestructure.Common.dll
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\Infraestructure.Common\bin\Debug\Infraestructure.Common.pdb
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\Infraestructure.Common\obj\Debug\Infraestructure.Common.dll
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\Infraestructure.Common\obj\Debug\Infraestructure.Common.pdb
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\Infraestructure.Common\bin\Debug\Infraestructure.Common.dll
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\Infraestructure.Common\bin\Debug\Infraestructure.Common.pdb
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\Infraestructure.Common\obj\Debug\Infraestructure.Common.csprojResolveAssemblyReference.cache
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\Infraestructure.Common\obj\Debug\Infraestructure.Common.dll
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\Infraestructure.Common\obj\Debug\Infraestructure.Common.pdb

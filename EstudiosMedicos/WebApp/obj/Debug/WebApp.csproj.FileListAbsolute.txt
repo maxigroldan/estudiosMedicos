@@ -1,3 +1,116 @@
+c:\users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\ApplicationInsights.config
+c:\users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\roslyn\csc.exe
+c:\users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\roslyn\csc.exe.config
+c:\users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\roslyn\csc.rsp
+c:\users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\roslyn\csi.exe
+c:\users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\roslyn\csi.rsp
+c:\users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\roslyn\System.AppContext.dll
+c:\users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\roslyn\System.Collections.Immutable.dll
+c:\users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\roslyn\System.IO.FileSystem.dll
+c:\users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\roslyn\vbc.exe
+c:\users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\roslyn\vbc.exe.config
+c:\users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\roslyn\vbc.rsp
+c:\users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\roslyn\VBCSCompiler.exe
+c:\users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\roslyn\VBCSCompiler.exe.config
+c:\users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\WebApp.dll.config
+c:\users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\WebApp.dll
+c:\users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\WebApp.pdb
+c:\users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\Antlr3.Runtime.dll
+c:\users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\Microsoft.AI.Web.dll
+c:\users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\Microsoft.AI.WindowsServer.dll
+c:\users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\Microsoft.ApplicationInsights.dll
+c:\users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\Microsoft.Web.Infrastructure.dll
+c:\users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\Newtonsoft.Json.dll
+c:\users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\System.Net.Http.Formatting.dll
+c:\users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\System.Web.Helpers.dll
+c:\users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\System.Web.Http.dll
+c:\users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\System.Web.Http.WebHost.dll
+c:\users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\System.Web.Mvc.dll
+c:\users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\System.Web.Optimization.dll
+c:\users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\System.Web.Razor.dll
+c:\users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\System.Web.WebPages.Deployment.dll
+c:\users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\System.Web.WebPages.dll
+c:\users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\System.Web.WebPages.Razor.dll
+c:\users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\WebGrease.dll
+c:\users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\System.Web.Helpers.xml
+c:\users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\System.Web.Mvc.xml
+c:\users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\System.Web.Optimization.xml
+c:\users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\System.Web.Razor.xml
+c:\users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\System.Web.WebPages.xml
+c:\users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\System.Web.WebPages.Deployment.xml
+c:\users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\System.Web.WebPages.Razor.xml
+c:\users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\Antlr3.Runtime.pdb
+c:\users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\Newtonsoft.Json.xml
+c:\users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\System.Net.Http.Formatting.xml
+c:\users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\System.Web.Http.xml
+c:\users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\System.Web.Http.WebHost.xml
+c:\users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\Microsoft.ApplicationInsights.xml
+c:\users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\Microsoft.AI.WindowsServer.xml
+c:\users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\Microsoft.AI.Web.xml
+c:\users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\obj\Debug\WebApp.dll
+c:\users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\obj\Debug\WebApp.pdb
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\EstudiosMedicos.Core.dll
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\EstudiosMedicos.Services.dll
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\Infraestructure.Core.dll
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\Infraestructure.Data.dll
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\Infraestructure.Common.dll
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\EstudiosMedicos.Core.pdb
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\EstudiosMedicos.Services.pdb
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\Infraestructure.Core.pdb
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\Infraestructure.Data.pdb
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\Infraestructure.Common.pdb
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\obj\Debug\WebApp.csprojResolveAssemblyReference.cache
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\CommonServiceLocator.dll
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\EstudiosMedicos.IoC.dll
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\Unity.Abstractions.dll
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\Unity.Configuration.dll
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\Unity.Container.dll
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\Unity.Interception.Configuration.dll
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\Unity.Interception.dll
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\Unity.RegistrationByConvention.dll
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\Unity.ServiceLocation.dll
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\Unity.WebApi.dll
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\EstudiosMedicos.IoC.pdb
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\CommonServiceLocator.pdb
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\Unity.Abstractions.pdb
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\Unity.Configuration.pdb
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\Unity.Container.pdb
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\Unity.Interception.pdb
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\Unity.Interception.Configuration.pdb
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\Unity.RegistrationByConvention.pdb
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\Unity.ServiceLocation.pdb
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\Infraestructure.Services.dll
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\Infraestructure.Services.pdb
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\EstudiosMedicos.Data.dll
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\EstudiosMedicos.Common.dll
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\EstudiosMedicos.Data.pdb
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\WebApp\bin\EstudiosMedicos.Common.pdb
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\bin\ApplicationInsights.config
 C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\bin\roslyn\csc.exe
 C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\bin\roslyn\csc.exe.config
 C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\bin\roslyn\csc.rsp
@@ -27,7 +140,23 @@ C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\
 C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\bin\WebApp.dll.config
 C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\bin\WebApp.dll
 C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\bin\WebApp.pdb
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\bin\Antlr3.Runtime.dll
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\bin\CommonServiceLocator.dll
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\bin\EstudiosMedicos.Core.dll
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\bin\EstudiosMedicos.IoC.dll
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\bin\EstudiosMedicos.Services.dll
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\bin\Infraestructure.Core.dll
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\bin\Infraestructure.Services.dll
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\bin\Microsoft.AI.Web.dll
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\bin\Microsoft.ApplicationInsights.dll
 C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
 C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\bin\Microsoft.Web.Infrastructure.dll
 C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\bin\Newtonsoft.Json.dll
 C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\bin\System.Net.Http.Formatting.dll
@@ -35,21 +164,61 @@ C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\
 C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\bin\System.Web.Http.dll
 C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\bin\System.Web.Http.WebHost.dll
 C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\bin\System.Web.Mvc.dll
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\bin\System.Web.Optimization.dll
 C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\bin\System.Web.Razor.dll
-C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\bin\System.Web.Webpages.Deployment.dll
-C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\bin\System.Web.Webpages.dll
-C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\bin\System.Web.Webpages.Razor.dll
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\bin\System.Web.WebPages.dll
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\bin\Unity.Abstractions.dll
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\bin\Unity.Configuration.dll
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\bin\Unity.Container.dll
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\bin\Unity.Interception.Configuration.dll
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\bin\Unity.Interception.dll
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\bin\Unity.RegistrationByConvention.dll
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\bin\Unity.ServiceLocation.dll
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\bin\Unity.WebApi.dll
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\bin\WebGrease.dll
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\bin\EstudiosMedicos.Data.dll
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\bin\Infraestructure.Data.dll
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\bin\EstudiosMedicos.Common.dll
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\bin\Infraestructure.Common.dll
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\bin\EstudiosMedicos.Core.pdb
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\bin\EstudiosMedicos.IoC.pdb
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\bin\EstudiosMedicos.Services.pdb
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\bin\Infraestructure.Core.pdb
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\bin\Infraestructure.Services.pdb
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\bin\CommonServiceLocator.pdb
 C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\bin\System.Web.Razor.xml
-C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\bin\System.Web.Webpages.xml
-C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\bin\System.Web.Webpages.Deployment.xml
-C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\bin\System.Web.Webpages.Razor.xml
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\bin\Microsoft.Practices.EnterpriseLibrary.Data.xml
 C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\bin\System.Web.Helpers.xml
 C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\bin\System.Web.Mvc.xml
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\bin\System.Web.Optimization.xml
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\bin\System.Web.Razor.xml
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\bin\System.Web.WebPages.xml
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\bin\Unity.Abstractions.pdb
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\bin\Unity.Configuration.pdb
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\bin\Unity.Container.pdb
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\bin\Unity.Interception.pdb
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\bin\Unity.Interception.Configuration.pdb
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\bin\Unity.RegistrationByConvention.pdb
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\bin\Unity.ServiceLocation.pdb
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\bin\Antlr3.Runtime.pdb
 C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\bin\Newtonsoft.Json.xml
 C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\bin\System.Net.Http.Formatting.xml
 C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\bin\System.Web.Http.xml
 C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\bin\System.Web.Http.WebHost.xml
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\bin\Microsoft.AI.Web.xml
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\bin\EstudiosMedicos.Data.pdb
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\bin\Infraestructure.Data.pdb
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\bin\EstudiosMedicos.Common.pdb
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\bin\Infraestructure.Common.pdb
 C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\obj\Debug\WebApp.csprojResolveAssemblyReference.cache
 C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\obj\Debug\WebApp.dll
 C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\WebApp\obj\Debug\WebApp.pdb

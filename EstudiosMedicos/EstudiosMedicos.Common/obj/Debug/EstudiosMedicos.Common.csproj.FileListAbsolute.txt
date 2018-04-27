@@ -1,0 +1,18 @@
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\EstudiosMedicos.Common\bin\Debug\EstudiosMedicos.Common.dll
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\EstudiosMedicos.Common\bin\Debug\EstudiosMedicos.Common.pdb
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\EstudiosMedicos.Common\bin\Debug\Infraestructure.Common.dll
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\EstudiosMedicos.Common\bin\Debug\Infraestructure.Common.pdb
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\EstudiosMedicos.Common\obj\Debug\EstudiosMedicos.Common.csprojResolveAssemblyReference.cache
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\EstudiosMedicos.Common\obj\Debug\EstudiosMedicos.Common.ConfigurationRes.resources
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\EstudiosMedicos.Common\obj\Debug\EstudiosMedicos.Common.csproj.GenerateResource.Cache
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\EstudiosMedicos.Common\obj\Debug\EstudiosMedicos.Common.dll
+C:\Users\maximiliano.roldan\documents\visual studio 2017\Projects\Probando\EstudiosMedicos.Common\obj\Debug\EstudiosMedicos.Common.pdb
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\EstudiosMedicos.Common\bin\Debug\EstudiosMedicos.Common.dll
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\EstudiosMedicos.Common\bin\Debug\EstudiosMedicos.Common.pdb
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\EstudiosMedicos.Common\bin\Debug\Infraestructure.Common.dll
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\EstudiosMedicos.Common\bin\Debug\Infraestructure.Common.pdb
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\EstudiosMedicos.Common\obj\Debug\EstudiosMedicos.Common.csprojResolveAssemblyReference.cache
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\EstudiosMedicos.Common\obj\Debug\EstudiosMedicos.Common.ConfigurationRes.resources
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\EstudiosMedicos.Common\obj\Debug\EstudiosMedicos.Common.csproj.GenerateResource.Cache
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\EstudiosMedicos.Common\obj\Debug\EstudiosMedicos.Common.dll
+C:\Users\maximiliano.roldan\Source\Repos\estudiosMedicos\EstudiosMedicos\EstudiosMedicos.Common\obj\Debug\EstudiosMedicos.Common.pdb
